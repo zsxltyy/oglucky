@@ -33,7 +33,7 @@ local function changeText(v)
                 end
             end
             if v.Text == "$750M" then
-                v.Text = "$750B"
+                v.Text = "$500B"
             end
 
         end
